@@ -1,0 +1,13 @@
+{
+  "name": "writev",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/node-writev",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "standard": "^7.1.2"
+  }
+}
